@@ -1,11 +1,14 @@
-@charset "UTF-8";
-
-*{
-    padding: 0;
-    margin: 0;
+body{
+    background: crimson;
 }
 
-body{
-    background-color: red;
-    color: yellow;
+h1{
+    text-align: center;
+}
+p{
+    text-align: center;
+}
+
+em strong{
+    color: blue;
 }
